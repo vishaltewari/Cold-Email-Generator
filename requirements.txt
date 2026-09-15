@@ -6,3 +6,4 @@ ipykernel
 chromadb
 bs4
 pandas
+streamlit
